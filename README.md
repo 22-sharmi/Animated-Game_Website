@@ -3,7 +3,7 @@
 An interactive and visually appealing **Animated Game Website** built using **Vite, React, and GSAP animations**.
 
 ## 🚀 Live Demo
-[Check out the live demo](https://your-deployment-link.com) (Update this with your deployed link)
+[Check out the live demo](https://animated-game-website.vercel.app/)
 
 ## 📌 Features
 - Smooth **GSAP animations**
